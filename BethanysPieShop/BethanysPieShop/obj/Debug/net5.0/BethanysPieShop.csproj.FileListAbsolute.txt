@@ -69,3 +69,10 @@ C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Co
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Pie\Details.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\_PieCard.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\home\Index.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs

@@ -1,0 +1,12 @@
+﻿@*BethanysPieShop\Views\Shared\Components\ShoppingCartSummary\Default.cshtml*@
+@model ShoppingCartViewModel
+@if (Model.ShoppingCart.ShoppingCartItems.Count > 0) {
+    <li>
+        <a>
+            <span class="glyphicon glyphicon-shopping-cart"></span>
+            <span id="cart-status">
+                @Model.ShoppingCart.ShoppingCartItems.Count
+            </span>
+        </a>
+    </li>
+}
