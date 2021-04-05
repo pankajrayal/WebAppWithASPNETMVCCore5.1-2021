@@ -68,3 +68,4 @@ C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Co
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Pie\Details.cshtml.g.cs
