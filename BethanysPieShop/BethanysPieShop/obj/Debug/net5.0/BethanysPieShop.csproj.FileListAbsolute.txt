@@ -76,3 +76,5 @@ C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Co
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
 C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\D-Drive\Pankaj\Learning\code\DotNet\Building Web Applications with ASP.NET Core MVC\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
